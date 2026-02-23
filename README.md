@@ -1,6 +1,6 @@
 # AI 智能旅行助手
 
-基于HelloAgent（https://github.com/datawhalechina/hello-agents）的学习，对后端代码进行了重构和优化，并提供将景点名称、地名等翻译成英文，以便更好的匹配图片的搜索。前端代码微调。
+基于HelloAgent(https://github.com/datawhalechina/hello-agents)的学习，对后端代码进行了重构和优化，并提供将景点名称、地名等翻译成英文，以便更好的匹配图片的搜索。前端代码微调。
 
 基于 AI 的个性化旅行规划助手，利用多智能体系统提供完整的旅行计划解决方案。
 

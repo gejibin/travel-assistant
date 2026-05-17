@@ -23,7 +23,7 @@
 - **Python**: 主要开发语言
 - **FastAPI**: Web 框架，支持异步处理和自动 API 文档
 - **Pydantic**: 数据验证和序列化
-- **MCP**: Map Compatible Protocol，用于集成地图服务
+- **MCP**: 用于集成地图服务
 
 ### 前端
 - **Vue 3**: 前端框架
